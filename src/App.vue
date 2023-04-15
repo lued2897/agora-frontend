@@ -9,7 +9,7 @@ import navbar from	'./components/container/NavBar.vue'
 
 	<navbar></navbar>/
 
-	<div></div>
+	<div>holi</div>
 	<!--
 	<Card
 		:url="'https://images.pexels.com/photos/2660262/pexels-photo-2660262.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'"
