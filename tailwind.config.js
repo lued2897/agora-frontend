@@ -42,3 +42,4 @@ export default {
     require("./src/theme/navbar.js")
   ],
 }
+

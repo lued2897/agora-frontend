@@ -21,7 +21,7 @@ module.exports = plugin(function ({ addComponents, theme }){
             "&_shopping_bag": {
                 backgroundImage: theme("backgroundImage.shopping_bag"),
             },
-            "&_": {
+            "&_shopping_bag_dark": {
                 backgroundImage: theme("backgroundImage.shopping_bag_dark"),
             },
             "&_user": {
